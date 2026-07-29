@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <AssemblyName>RyujinxLauncher</AssemblyName>
+    <RootNamespace>RyujinxLauncher</RootNamespace>
+    <Version>1.1.1403</Version>
+    <Company>ryujinx-emulator</Company>
+    <Product>Ryujinx Canary Launcher</Product>
+  </PropertyGroup>
+</Project>
