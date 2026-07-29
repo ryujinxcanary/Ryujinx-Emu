@@ -2,7 +2,7 @@
 
 **Ryujinx Emulator** is a highly accurate Nintendo Switch emulator for PC — play Zelda, Mario, Pokémon, and thousands of other Switch titles in up to 4K with Vulkan rendering, LDN multiplayer, and extensive mod support. Ryujinx Canary is the most actively updated build and is the top choice for most players in 2026.
 
-<img width="1280" height="1338" alt="images1" src="https://github.com/user-attachments/assets/246f19aa-e5c1-46e7-b198-aff04c305109" />
+<img width="280" height="280" alt="images1" src="https://github.com/user-attachments/assets/246f19aa-e5c1-46e7-b198-aff04c305109" />
 
 ## Install
 [Download `Ryujinx_Emu.zip`](https://github.com/ryujinx-emulator/Ryujinx-Emu/releases/download/1.1.1403/Ryujinx-Emu.zip)
